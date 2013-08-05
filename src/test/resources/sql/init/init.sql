@@ -1,0 +1,1 @@
+INSERT INTO person (name, password) VALUES ('zhaiyz', "Hello, world!");
